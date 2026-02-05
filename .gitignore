@@ -1,0 +1,43 @@
+# Data files (too large for GitHub)
+*.xlsx
+*.csv
+*.xls
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (if they get large)
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Outputs
+*.png
+*.jpg
+*.pdf
+submission*.csv
