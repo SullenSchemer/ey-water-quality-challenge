@@ -1,5 +1,7 @@
 # Data files (too large for GitHub)
 *.xlsx
+*.csv
+*.xls
 
 # Python
 __pycache__/
@@ -23,23 +25,6 @@ build/
 *.swp
 *.swo
 *~
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Model files
-*.pkl
-*.joblib
-*.h5
-*.model
-
-# Outputs
-outputs/
-*.png
-*.jpg
-*.pdf
-submission*.csv
 
 # OS
 .DS_Store
