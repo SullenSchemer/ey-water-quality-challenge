@@ -6,6 +6,7 @@ Predicting water quality parameters for South African rivers using satellite ima
 
 - **Goal:** Predict Total Alkalinity, Electrical Conductance, and Dissolved Reactive Phosphorus
 - **Data:** 27,957 training samples from 162 locations (2011-2015)
+- **Source:** https://challenge.ey.com/challenges/2026-optimizing-clean-water-supply/data-description
 - **Methods:** Machine learning with Landsat satellite imagery and TerraClimate data
 - **Evaluation:** R² Score (Coefficient of Determination)
 
@@ -13,10 +14,10 @@ Predicting water quality parameters for South African rivers using satellite ima
 
 | Milestone | Date | R² Score | Status |
 |-----------|------|----------|--------|
-| Baseline Model | [2/4/2026] | 0.20 | ✅ Complete |
+| Baseline Model | 2/4/2026 | 0.20 | ✅ Complete |
 | Week 1 Target | Day 7 | 0.35 | 🎯 In Progress |
 | Week 2 Target | Day 14 | 0.45 | 📅 Planned |
-| Top 10 Position | Week 6 | 0.55+ | 🎯 Goal |
+| Top 10 Position | 3/13/2026 | 0.55+ | 🎯 Goal |
 
 **Current Leaderboard #1:** 0.760
 
@@ -30,13 +31,7 @@ Predicting water quality parameters for South African rivers using satellite ima
 
 ## 📂 Project Structure
 ```
-ey-water-challenge/
-├── 00_daily_log.ipynb              # Daily progress tracking
-├── 01_exploratory_data_analysis.ipynb
-├── 02_landsat_feature_engineering.ipynb
-├── 03_preprocessing_experiments.ipynb
-├── Benchmark_Model_Notebook.ipynb  # Baseline model
-└── README.md
+Coming soon
 ```
 
 ## 🔍 Methodology
@@ -72,4 +67,4 @@ This project is for educational purposes as part of the EY AI & Data Challenge 2
 
 ---
 
-**Status:** 🚀 Active Development | Last Updated: [2/4/2026]
+**Status:** 🚀 Active Development | Last Updated: 2/4/2026
